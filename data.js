@@ -6,4 +6,8 @@ class Attribute {
         this.size=size;
     }
 
+    func(value){
+        return value+3;
+    }
+
 }
